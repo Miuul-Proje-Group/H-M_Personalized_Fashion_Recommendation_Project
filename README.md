@@ -2,6 +2,12 @@
 # H&M_Personalized_Fashion_Recommendations_Project
 Provide product recommendations based on previous purchases
 
+Dataset: https://www.kaggle.com/datasets/arashnic/marketing-seris-customer-lifetime-value
+Team: Ecenur Özütrk , Barış Cengiz , Mert Yüksek
+PDF File: 
+Streamlit App: 
+
+
 *******Business Problem *********
 
 H&M Group is a family of brands and businesses with 53 online markets and approximately 4,850 stores. 
