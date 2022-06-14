@@ -1,10 +1,8 @@
 
-*******Project********
-
 # H&M_Personalized_Fashion_Recommendations_Project
 Provide product recommendations based on previous purchases
 
-*******Business Problem ***********
+*******Business Problem *********
 
 H&M Group is a family of brands and businesses with 53 online markets and approximately 4,850 stores. 
 Our online store offers shoppers an extensive selection of products to browse through. 
