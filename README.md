@@ -2,7 +2,7 @@
 # H&M_Personalized_Fashion_Recommendations_Project
 Provide product recommendations based on previous purchases
 
-Dataset: https://www.kaggle.com/datasets/arashnic/marketing-seris-customer-lifetime-value
+Dataset: https://www.kaggle.com/competitions/h-and-m-personalized-fashion-recommendations/overview/description
 
 Team: Ecenur Özütrk , Barış Cengiz , Mert Yüksek
 
