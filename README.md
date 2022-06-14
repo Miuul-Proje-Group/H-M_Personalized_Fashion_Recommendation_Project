@@ -3,8 +3,11 @@
 Provide product recommendations based on previous purchases
 
 Dataset: https://www.kaggle.com/datasets/arashnic/marketing-seris-customer-lifetime-value
+
 Team: Ecenur Özütrk , Barış Cengiz , Mert Yüksek
+
 PDF File: 
+
 Streamlit App: 
 
 
